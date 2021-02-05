@@ -13,6 +13,7 @@
 - [Jongie Oaquiera] (https://github.com/joaquiera)
 - Samantha Milliga
 - Kalp Vyas
+- tanu panwar
 - Siddhanth Verma
 - Patrick O'Mahony
 - Sharon Greally
